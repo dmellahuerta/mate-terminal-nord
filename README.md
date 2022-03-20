@@ -7,3 +7,5 @@ chmod +x nord.sh
 ./nord.sh
 sudo reboot
 ```
+
+source template -> https://github.com/pygaurav/mate-terminal-dracula-custom-theme
