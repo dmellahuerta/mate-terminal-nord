@@ -8,4 +8,5 @@ chmod +x nord.sh
 sudo reboot
 ```
 
-source template -> https://github.com/pygaurav/mate-terminal-dracula-custom-theme
+source template  https://github.com/pygaurav/mate-terminal-dracula-custom-theme
+source color schema https://www.nordtheme.com/
